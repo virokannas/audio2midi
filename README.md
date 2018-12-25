@@ -14,3 +14,5 @@ python audio2midi.py samples/voice_test.wav samples/output_16chn.mid 16
 
 # Sample files:
 Sample output of the above example (using TAL's free NoiseMaker plug-in): https://soundcloud.com/toggleaudio/audio2midi-sample
+
+![midi_frequencies](https://github.com/simpassi/audio2midi/blob/master/samples/midi_frequencies.png)
